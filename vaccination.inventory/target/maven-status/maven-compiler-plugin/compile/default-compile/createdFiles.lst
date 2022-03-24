@@ -1,0 +1,10 @@
+com\kruger\vaccination\inventory\domain\VaccinationStatus.class
+com\kruger\vaccination\inventory\domain\credentials\EmployeeCredentials.class
+com\kruger\vaccination\inventory\controller\InventoryController.class
+com\kruger\vaccination\inventory\service\InventoryService.class
+com\kruger\vaccination\inventory\domain\dto\EmployeeDto$EmployeeDtoBuilder.class
+com\kruger\vaccination\inventory\VaccinationInventoryApplication.class
+com\kruger\vaccination\inventory\domain\dto\EmployeeDto.class
+com\kruger\vaccination\inventory\repository\EmployeeRepository.class
+com\kruger\vaccination\inventory\domain\Employee.class
+com\kruger\vaccination\inventory\domain\credentials\EmployeeCredentials$EmployeeCredentialsBuilder.class

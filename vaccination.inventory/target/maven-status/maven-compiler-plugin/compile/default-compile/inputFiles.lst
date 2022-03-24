@@ -1,0 +1,8 @@
+D:\MyProjects\vaccination.inventory\src\main\java\com\kruger\vaccination\inventory\domain\Employee.java
+D:\MyProjects\vaccination.inventory\src\main\java\com\kruger\vaccination\inventory\VaccinationInventoryApplication.java
+D:\MyProjects\vaccination.inventory\src\main\java\com\kruger\vaccination\inventory\domain\dto\EmployeeDto.java
+D:\MyProjects\vaccination.inventory\src\main\java\com\kruger\vaccination\inventory\domain\credentials\EmployeeCredentials.java
+D:\MyProjects\vaccination.inventory\src\main\java\com\kruger\vaccination\inventory\service\InventoryService.java
+D:\MyProjects\vaccination.inventory\src\main\java\com\kruger\vaccination\inventory\repository\EmployeeRepository.java
+D:\MyProjects\vaccination.inventory\src\main\java\com\kruger\vaccination\inventory\domain\VaccinationStatus.java
+D:\MyProjects\vaccination.inventory\src\main\java\com\kruger\vaccination\inventory\controller\InventoryController.java
